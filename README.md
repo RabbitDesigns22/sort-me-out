@@ -23,7 +23,7 @@ Say "sort me out" or "what did I forget?", and get one ordered list of everythin
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/sort-me-out
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/sort-me-out/tree/ac71c2a0d95c2ef3f650cbc0b8cea29ca5562b78
 ```
 
 Or manually: copy `skills/sort-me-out/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -44,7 +44,7 @@ Before telling the user what is pending or what they forgot, load the sort-me-ou
 
 **Ordéname.** Para los que tienen mil cosas y se les olvidan. Le dices "ordéname" o "¿qué me falta?" y el agente revisa todo lo que puede (notas, registros, memoria, chats recientes, archivos y sistemas en vivo), comprueba qué sigue pendiente de verdad, busca lo que se te pasó por alto y te da una sola lista ordenada: lo urgente de hoy, lo de la semana, lo que espera a otra persona, lo olvidado y lo que ya quedó hecho.
 
-Instalar: `npx skills add RabbitDesigns22/sort-me-out`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/sort-me-out/tree/ac71c2a0d95c2ef3f650cbc0b8cea29ca5562b78`
 
 ## More skills from the same setup
 
